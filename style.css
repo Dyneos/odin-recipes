@@ -1,0 +1,48 @@
+.recipe-link {
+    font-family: Helvetica, sans-serif;
+    font-size: 32px;
+    color: #10ff10;
+    background-color: chocolate;
+    font-weight: bold;
+    text-align: center;
+}
+
+h1 {
+    font-weight: bold;
+    font-family: "Times New Roman",sans-serif;
+    color: whitesmoke;
+    background-color: black;
+    text-align: center;
+}
+
+.recipe-link.side-dish {
+    background-color: gray;
+}
+
+img {
+    width: 400px;
+    height: auto;
+}
+
+h2 {
+    color: red;
+    background-color: wheat;
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace, sans-serif;
+}
+
+p {
+    font-size: 18px;
+}
+
+ul li {
+    font-size: 18px;
+    color: black;
+    background-color: rgb(255, 0, 0);
+}
+
+ol li{
+    font-family: 'Courier New', Courier, monospace,sans-serif;
+    font-size: 16px;
+    font-weight: 900;
+}
